@@ -1,0 +1,17 @@
+const EntryScreenPageText = "A To-Do List";
+const EntryScreenPageText1 = "Sensor Tracking";
+const ToDoSplashScreenText = "Daily To-Do App";
+const HomePageScreenText = "Zoyeb Ahmed";
+const HomePageScreenText1 = "5 incomplete, 5 completed";
+const AddScreenText1 = "Lists";
+const AddaskScreenText = "List Title (0)";
+const AddaskScreenText1 = "Add a task";
+const TaskAddedScreenText = "Task 1";
+const TaskAddedScreenText1 = "Done";
+const HomeScreenText = "List Title";
+const SensortrackingScreenText = "Gyro";
+const SensortrackingScreenText1 = "Accelerometer Sensor Data";
+const AddTaskScreenText2 = "Untitled List (0)";
+const Addnote = "Add Note";
+const Cancel = "Cancel";
+const Save = "Save";
